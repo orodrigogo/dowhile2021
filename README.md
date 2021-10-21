@@ -51,7 +51,7 @@ Logado ou não, o usuário visualiza em tempo real as mensagens enviadas por out
 - [ ] A mensagem deve possuir no máximo 140 caracteres;
 - [ ] A mensagem não deve conter links ou qualquer tipo de formatação, a não ser textos;
 
-## Executando o projeto
+## 🎉 Executando o projeto
 
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
