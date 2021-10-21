@@ -44,7 +44,7 @@ Logado ou não, o usuário visualiza em tempo real as mensagens enviadas por out
 -   [ ] O usuário deve poder realizar login via Github;
 -   [ ] O usuário deve poder enviar uma mensagem de expectativa para o DoWhile;
 
-## 💼 ### Regras de negócio
+## 💼 Regras de negócio
 
 - [ ] O usuário só pode enviar mensagens após feito o login;
 - [ ] As mensagens em tempo-real devem ficar no mínimo 3 segundos em tela;
